@@ -1,0 +1,12 @@
+Package: resCervus
+Title: Provide Resampling Extension For CervusCL
+Version: 0.0.0.9000
+Authors@R: 
+    person("Hao-Ran", "Wu", , "haoranwu@zju.edu.cn", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-9449-6112"))
+Description: Provides resampling techniques for parentage analysis by Cervus software in order to improve parentage accuracy.
+Imports: utils, stats
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
